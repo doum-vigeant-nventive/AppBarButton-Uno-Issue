@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "dgSpecHash": "89oGjbqLpOSGWKy2audqthulkpkQw3pmXFRJXUzZofBqahQD/KqGGw+Ud5SYTy6FlZ2Bj8y8jecBONmh5dUVww==",
+  "success": false,
+  "projectFilePath": "C:\\P\\UnoSampleApp\\UnoSampleApp\\UnoSampleApp.Mobile\\UnoSampleApp.Mobile.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-android31.0 (.NETCoreApp,Version=v6.0). Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-android31.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-ios16.0 (.NETCoreApp,Version=v6.0). Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-ios16.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-android31.0 (.NETCoreApp,Version=v6.0) / android-arm. Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-android31.0/android-arm"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-android31.0 (.NETCoreApp,Version=v6.0) / android-arm64. Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-android31.0/android-arm64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-android31.0 (.NETCoreApp,Version=v6.0) / android-x64. Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-android31.0/android-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-android31.0 (.NETCoreApp,Version=v6.0) / android-x86. Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-android31.0/android-x86"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-android31.0 (.NETCoreApp,Version=v6.0) / iossimulator-x64. Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-android31.0/iossimulator-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-ios16.0 (.NETCoreApp,Version=v6.0) / android-arm. Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-ios16.0/android-arm"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-ios16.0 (.NETCoreApp,Version=v6.0) / android-arm64. Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-ios16.0/android-arm64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-ios16.0 (.NETCoreApp,Version=v6.0) / android-x64. Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-ios16.0/android-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-ios16.0 (.NETCoreApp,Version=v6.0) / android-x86. Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-ios16.0/android-x86"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UnoSampleApp is not compatible with net6.0-ios16.0 (.NETCoreApp,Version=v6.0) / iossimulator-x64. Project UnoSampleApp supports: net6.0-windows10.0.18362 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UnoSampleApp",
+      "targetGraphs": [
+        "net6.0-ios16.0/iossimulator-x64"
+      ]
+    }
+  ]
+}

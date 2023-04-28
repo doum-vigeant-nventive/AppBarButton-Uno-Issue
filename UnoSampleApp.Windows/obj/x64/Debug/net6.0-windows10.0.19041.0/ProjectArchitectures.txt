@@ -1,0 +1,1 @@
+C:\P\UnoSampleApp\UnoSampleApp\UnoSampleApp.Windows\UnoSampleApp.Windows.csproj;x64

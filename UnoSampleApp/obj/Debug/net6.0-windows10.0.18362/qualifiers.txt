@@ -1,0 +1,5 @@
+Scale=200
+Scale=300
+Scale=150
+Scale=100
+Language=EN
